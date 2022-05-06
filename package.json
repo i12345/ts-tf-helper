@@ -1,7 +1,7 @@
 {
   "name": "ts-tf-helper",
   "description": "Some helper utilitiies for TypeScript and TensorFlow JS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "dist/index.js",
   "private": "false",
   "module": "dist/index.js",
